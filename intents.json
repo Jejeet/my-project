@@ -560,7 +560,9 @@
     {
       "tag": "scheme",
       "patterns": [
-        "Jamb cut off mark for medicine"
+        "Jamb cut off mark for medicine",
+        "UTME cut off mark for medicine",
+        "What is Jamb cut off mark for medicine"
        
       ],
       "responses": [
@@ -571,7 +573,9 @@
     {
       "tag": "screening",
       "patterns": [
-        "EKSU Post UTME cut off mark for medicine"
+        "What is EKSU Post UTME cut off mark for medicine",
+        " EKSU Post UTME cut off mark for medicine",
+        "Post UTME cut off mark for medicine"
       
        
       ],
